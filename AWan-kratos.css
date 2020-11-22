@@ -5,7 +5,7 @@ src:
 url('./AWan/AWan.eot') format('embedded-opentype'),
 url('./AWan/AWan.woff2') format('woff2'),
 url('./AWan/AWan.woff') format('woff'),
-url('./AWan/AWan.ttf') format('truetype'),
+url('./AWan/AWan.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 font-display: swap;
