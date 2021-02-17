@@ -1,5 +1,6 @@
 @font-face {
 font-family: 'AWanLite';
+src: url('./AWan/Awan.eot');
 src:
 url('./AWan-Blog/AWan-Blog.eot') format('embedded-opentype'),
 url('./AWan-Blog/AWan-Blog.woff2') format('woff2'),
