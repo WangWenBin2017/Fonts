@@ -10,6 +10,11 @@ font-weight: normal;
 font-style: normal;
 font-display: swap;
 }
+/**
 :not(i) {
 font-family: "AWanLite";
+}
+**/
+*:not ([class*="icon"]):not (i) {
+font-family: "AWan" !important;
 }
