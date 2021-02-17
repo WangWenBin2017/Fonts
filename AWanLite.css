@@ -1,11 +1,11 @@
 @font-face {
 font-family: 'AWanLite';
-src: url('./AWan/Awan.eot');
+src: url('./AWanLite/AWanLite.eot');
 src:
-url('./AWan-Blog/AWan-Blog.eot') format('embedded-opentype'),
-url('./AWan-Blog/AWan-Blog.woff2') format('woff2'),
-url('./AWan-Blog/AWan-Blog.woff') format('woff'),
-url('./AWan-Blog/AWan-Blog.ttf') format('truetype');
+url('./AWanLite/AWanLite.eot') format('embedded-opentype'),
+url('./AWanLite/AWanLite.woff2') format('woff2'),
+url('./AWanLite/AWanLite.woff') format('woff'),
+url('./AWanLite/AWanLite.ttf') format('truetype');
 font-weight: normal;
 font-style: normal;
 font-display: swap;
